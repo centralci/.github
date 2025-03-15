@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/6561904b-de56-43cf-bd1a-0a8096dbf6d0" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/9953b3a7-4a9e-49f9-bdc7-bd07cbb5fd30" width="450">
 
 # CentralCI
 Experience uncompromised CI/CD with your dedicated, secure, fully-managed Concourse CI.
