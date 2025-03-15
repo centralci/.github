@@ -1,5 +1,4 @@
-![centralci intro](https://github.com/centralci/.github/raw/main/profile/centralci-intro-dark-mode.svg#gh-dark-mode-only)
-![centralci intro](https://github.com/centralci/.github/raw/main/profile/centralci-intro-light-mode.svg#gh-light-mode-only)
+![image](https://github.com/user-attachments/assets/6561904b-de56-43cf-bd1a-0a8096dbf6d0)
 
 # CentralCI
 Experience uncompromised CI/CD with your dedicated, secure, fully-managed Concourse CI.
